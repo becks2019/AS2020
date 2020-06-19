@@ -5,9 +5,5 @@ Besonders die Idee des Hörspiels etwas über Sounds und deren Entstehung zu erf
 Hierbei betreten Besucher_innen über den Eingang von einem Funkhaus ein Tonstudio indem sie zuerst begrüßt werden und gelangen von dort in die verschiedenen Kapseln, welche jeweils die unterschiedlichen Aspekte widerspiegeln.
 
 Die folgenden Thematiken finden sich in den Kapseln wieder und können erfahren werden: 
-Authentizität von Sound
-Manipulation von Sound
-Tiefe im Sound
-Sound im Raum
-Atmosphärischer Sound
+Authentizität von Sound, Manipulation von Sound, Tiefe im Sound, Sound im Raum, Atmosphärischer Sound
 
