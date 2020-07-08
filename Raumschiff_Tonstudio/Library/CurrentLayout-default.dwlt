@@ -115,7 +115,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 146
+  controlID: 85
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 147
+  controlID: 86
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -165,7 +165,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 148
+  controlID: 87
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -331,9 +331,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 80400000
       m_LastClickedID: 0
-      m_ExpandedIDs: 38fbffff
+      m_ExpandedIDs: 54f4fffff4f5ffff7ef9ffffd4f9ffff38fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -393,9 +393,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 6.4100842, y: -2.4859066, z: -0.3199997}
+    m_Target: {x: 617.9151, y: 46.427536, z: 142.82214}
     speed: 2
-    m_Value: {x: 6.4100842, y: -2.4859066, z: -0.3199997}
+    m_Value: {x: 617.9151, y: 46.427536, z: 142.82214}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -441,13 +441,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.3446801, y: -0.0014080901, z: 0.0005170604, w: 0.93872}
+    m_Target: {x: 0.20085277, y: -0.15646847, z: 0.032516856, w: 0.96650016}
     speed: 2
-    m_Value: {x: 0.34186092, y: -0.0028192552, z: 0.0010256259, w: 0.93974584}
+    m_Value: {x: 0.20225252, y: -0.15786833, z: 0.033054873, w: 0.9659601}
   m_Size:
-    m_Target: 8.497949
+    m_Target: 178.93283
     speed: 2
-    m_Value: 9.338405
+    m_Value: 187.36423
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -603,20 +603,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Scenes
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/MilkyWay
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\beatr\Desktop\MeInfo\GitHub\AS2020\Raumschiff_Tonstudio
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 286}
-    m_SelectedIDs: 0c400000
-    m_LastClickedID: 16396
-    m_ExpandedIDs: 000000000c4000000e4000001040000012400000144000001640000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 4e400000
+    m_LastClickedID: 16462
+    m_ExpandedIDs: 000000000c4000000e4000001040000012400000144000001640000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
