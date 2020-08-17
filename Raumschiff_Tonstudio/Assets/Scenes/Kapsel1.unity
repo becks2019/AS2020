@@ -294,7 +294,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   dialogue:
-    name: Jan Wieners
+    name: Jan
     sentences:
     - Hi ich bin Jan Wieners.
     - Euer Projekt ist echt super.
@@ -3245,6 +3245,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nameText: {fileID: 640383503}
   dialogueText: {fileID: 1258944086}
+  animator: {fileID: 1138721539}
 --- !u!4 &493344688
 Transform:
   m_ObjectHideFlags: 0
@@ -3698,7 +3699,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 9814a3cf1da730c488d7212c79832491, type: 3}
-    m_FontSize: 14
+    m_FontSize: 12
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 1
@@ -3709,7 +3710,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Name der Person
+  m_Text: 
 --- !u!222 &640383504
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -6625,6 +6626,7 @@ GameObject:
   - component: {fileID: 1138721536}
   - component: {fileID: 1138721538}
   - component: {fileID: 1138721537}
+  - component: {fileID: 1138721539}
   m_Layer: 5
   m_Name: DialogueBox
   m_TagString: Untagged
@@ -6692,6 +6694,25 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1138721535}
   m_CullTransparentMesh: 0
+--- !u!95 &1138721539
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1138721535}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 98d6650fccf1d6644aba222ab3617609, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1144685421
 GameObject:
   m_ObjectHideFlags: 0
@@ -7351,8 +7372,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Informationen zur Kapsel Info zur Kapsel zur  zur  eine skaps Informationen
-    zur Kapsel. jhabsd asduh asidoj iosdf sdkfjnsdf sdfoisdjfiosjdfoisjdfijsidfois
+  m_Text: 
 --- !u!222 &1258944087
 CanvasRenderer:
   m_ObjectHideFlags: 0

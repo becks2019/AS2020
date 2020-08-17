@@ -10,6 +10,10 @@ public class DialogueTrigger : MonoBehaviour
         FindObjectOfType<DialogueManager>().StartDialogue(dialogue);
     }
 
+    void OnTriggerExit(Collider other){
+        FindObjectOfType<DialogueManager>().EndDialogue();
+    }
+
     void Update(){
         if(Input.GetKeyDown("space")){
             FindObjectOfType<DialogueManager>().DisplayNextSentence();
