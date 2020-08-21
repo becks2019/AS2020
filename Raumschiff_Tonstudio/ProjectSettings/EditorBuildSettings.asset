@@ -4,5 +4,29 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Funkhaus.unity
+    guid: 3af47243f4d644cecafb9d03f37abf61
+  - enabled: 1
+    path: Assets/Scenes/Korridor.unity
+    guid: dbda711adb97f704780a950669a23b53
+  - enabled: 1
+    path: Assets/Scenes/Roter Raum.unity
+    guid: f00e8b8db02ecd94596df1910c1cf374
+  - enabled: 1
+    path: Assets/Scenes/Kapsel1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Kapsel2.unity
+    guid: 8ae9694db3d9b73438d642cb2e4649c6
+  - enabled: 1
+    path: Assets/Scenes/Kapsel3.unity
+    guid: 9d301fe558a8ba741ab0208c6772c914
+  - enabled: 1
+    path: Assets/Scenes/Kapsel4.unity
+    guid: f4227eacb6bed9d4e993c092e0852edf
+  - enabled: 1
+    path: Assets/Scenes/Kapsel5.unity
+    guid: 5b974ed1af663c5438a09a23cb4d43bf
   m_configObjects: {}
