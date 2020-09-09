@@ -1,9 +1,5 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/Scenes/Funkhaus.unity
-=======
-- path: Assets/Scenes/Kapsel2.unity
->>>>>>> parent of bed127ec... Kapsel 2: fixing
+- path: Assets/Scenes/Korridor.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
