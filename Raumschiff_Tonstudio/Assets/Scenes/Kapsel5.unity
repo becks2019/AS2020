@@ -2723,6 +2723,7 @@ GameObject:
   m_Component:
   - component: {fileID: 449071774}
   - component: {fileID: 449071773}
+  - component: {fileID: 449071775}
   m_Layer: 0
   m_Name: Water4SimpleReflectionReflection Probes Camera
   m_TagString: Untagged
@@ -2780,13 +2781,22 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 449071772}
-  m_LocalRotation: {x: -0.3297352, y: 0.17199908, z: 0.061230026, w: 0.92625153}
-  m_LocalPosition: {x: 7.855519, y: -1.3810303, z: -4.181533}
+  m_LocalRotation: {x: 0.3801942, y: 0.035494268, z: 0.014603301, w: -0.92411}
+  m_LocalPosition: {x: 6.8009562, y: -1.7918258, z: -3.772175}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 21
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!45 &449071775
+Skybox:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 449071772}
+  m_Enabled: 1
+  m_CustomSkybox: {fileID: 0}
 --- !u!1 &456363431
 GameObject:
   m_ObjectHideFlags: 0
@@ -2886,7 +2896,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh15322
+  m_Name: pb_Mesh15434
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -6160,7 +6170,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh15650
+  m_Name: pb_Mesh15770
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -18058,8 +18068,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1638677574}
-  m_LocalRotation: {x: 0.34918672, y: 0.03737223, z: 0.013938904, w: -0.9362039}
-  m_LocalPosition: {x: 7.5354223, y: -1.8342662, z: -4.3739076}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 2.04, y: -1.2220001, z: -5.03}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -20468,7 +20478,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh16074
+  m_Name: pb_Mesh16266
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
