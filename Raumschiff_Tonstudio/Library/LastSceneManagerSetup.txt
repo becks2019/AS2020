@@ -1,5 +1,9 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/Korridor.unity
+=======
+- path: Assets/Scenes/Kapsel2.unity
+>>>>>>> parent of bed127ec... Kapsel 2: fixing
   isLoaded: 1
   isActive: 1
   isSubScene: 0
