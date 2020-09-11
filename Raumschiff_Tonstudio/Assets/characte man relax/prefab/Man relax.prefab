@@ -1546,14 +1546,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 130604}
-  m_LocalRotation: {x: -0.029114876, y: -0.01015207, z: 0.032983784, w: 0.99898016}
+  m_LocalRotation: {x: -0.028955616, y: -0.010597905, z: 0.017643496, w: 0.9993688}
   m_LocalPosition: {x: -0.051388472, y: 0, z: 0}
   m_LocalScale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
   m_Children:
   - {fileID: 430598}
   m_Father: {fileID: 430606}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: -3.2960002, y: -1.274, z: 2.0600002}
 --- !u!1 &130606
 GameObject:
   m_ObjectHideFlags: 0
@@ -1563,6 +1563,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 430606}
+  - component: {fileID: 2732450594064012246}
   m_Layer: 0
   m_Name: Bip01 Neck
   m_TagString: Untagged
@@ -1587,6 +1588,25 @@ Transform:
   m_Father: {fileID: 430608}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &2732450594064012246
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 130606}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: b9c9dd17d4eaf5c41a77f338ee0e0c10, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &130608
 GameObject:
   m_ObjectHideFlags: 0
@@ -2271,7 +2291,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 430644}
-  - component: {fileID: 11130506}
   m_Layer: 0
   m_Name: Man relax
   m_TagString: Untagged
@@ -2295,21 +2314,3 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!111 &11130506
-Animation:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 130644}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Animation: {fileID: 7400000, guid: df54603a1943cbf40ab6d4f3de04d83b, type: 3}
-  m_Animations:
-  - {fileID: 7400000, guid: df54603a1943cbf40ab6d4f3de04d83b, type: 3}
-  - {fileID: 7400002, guid: df54603a1943cbf40ab6d4f3de04d83b, type: 3}
-  - {fileID: 7400004, guid: df54603a1943cbf40ab6d4f3de04d83b, type: 3}
-  m_WrapMode: 0
-  m_PlayAutomatically: 1
-  m_AnimatePhysics: 0
-  m_CullingType: 1

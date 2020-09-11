@@ -6282,6 +6282,37 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mouseSensitivity: 50
   playerBody: {fileID: 1563513416}
+--- !u!1 &967207440 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 696486067612099940, guid: 75eef9dd061039a4ba2b9ae888435e93,
+    type: 3}
+  m_PrefabInstance: {fileID: 696486066199791817}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &967207441
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 967207440}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 4.3116918, y: 3.2976844, z: 1.7954551}
+  m_Center: {x: -0.09740206, y: -1.1488429, z: 0.39772755}
+--- !u!114 &967207442
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 967207440}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a19a71dd0e9d439eb2afb9d18f98f10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &975348926
 PrefabInstance:
   m_ObjectHideFlags: 0
