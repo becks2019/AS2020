@@ -392,11 +392,25 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   dialogue:
-    name: Jan Wieners
+    name: "Authentizit\xE4t von Originalschaupl\xE4tzen"
     sentences:
-    - Hi ich bin Jan Wieners.
-    - Euer Projekt ist echt super.
-    - Ihr bekommt eine 1,0!
+    - "Immer mehr Regisseur*innen nutzen Originalschaupl\xE4tze f\xFCr die Aufnahme
+      von Sounds anstatt des Tonstudios."
+    - "Die Verwendung dieser verleiht den Sounds eine Authentizit\xE4t, die in einem
+      Tonstudio nicht erreicht werden kann. "
+    - "Denn w\xE4hrend das Raumschiff Tonstudio einen schalltoten und reflexionsarmen
+      Raum darstellt, "
+    - "k\xF6nnen am Originalschauplatz urspr\xFCngliche und starke Moment eingefangen
+      werden."
+    - "In dieser Kapsel finden Sie einen Originalschauplatz mit der dazugeh\xF6rigen
+      Tonaufnahme."
+    - "Dabei handelt es sich um die Szene zweier M\xE4dchen, die auf einer Autofahrt
+      Lieder mitsingen."
+    - Durch Betreten der verschiedenen Punkte auf dem Boden werden unterschiedliche
+      Lieder abgespielt.
+    - "Die Lieder wurden nicht in einem Tonstudio und durch Hinzuf\xFCgen von Fahrger\xE4uschen
+      aufgenommen, sondern am Originalschauplatz im Auto bei Fahrt."
+    - "Erfahren Sie hier die Authentizit\xE4t vom Originalschauplatz."
 --- !u!1 &84165012
 GameObject:
   m_ObjectHideFlags: 0
@@ -2736,7 +2750,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh15274
+  m_Name: pb_Mesh59244
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -5685,7 +5699,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh15594
+  m_Name: pb_Mesh59564
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -19171,7 +19185,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh16014
+  m_Name: pb_Mesh59988
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
