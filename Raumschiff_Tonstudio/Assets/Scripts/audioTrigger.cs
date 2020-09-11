@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class audioTrigger : MonoBehaviour
 {
-    //Dieses Skript startet die Audiodatei von Bullen, Fluss und Blätterrauschen
+    //Dieses Skript startet die Audiodatei
     //bei Betreten des Colliders wird folgende Funktion ausgeführt
     void OnTriggerEnter(Collider other){
     

@@ -18,6 +18,7 @@ public class DialogueManager : MonoBehaviour
         sentences = new Queue<string>();
     }
 
+    //Die Animation wird im Animator gestartet
     public void StartDialogue(Dialogue dialogue){
         
         animator.SetBool("isOpen", true);
@@ -33,6 +34,7 @@ public class DialogueManager : MonoBehaviour
         DisplayNextSentence();
     }
 
+    //Der nächste Satz wird ausgegeben
     public void DisplayNextSentence(){
         if(sentences.Count == 0)
         {
@@ -53,6 +55,7 @@ public class DialogueManager : MonoBehaviour
         }
     }
 
+    //Die Animation wird über den Animator beendet
     public void EndDialogue(){
         animator.SetBool("isOpen", false);
     }
