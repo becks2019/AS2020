@@ -599,7 +599,7 @@ MonoBehaviour:
     name: 'Lena Sobieray '
     sentences:
     - 'Willkommen in Kapsel 2 mit dem Thema: Manipulation von Sound!'
-    - "Zu deiner Linken siehst du das Original Gespr\xE4ch und zu deiner rechten
+    - "Zu deiner Linken siehst du das Original Gespr\xE4ch und zu deiner Rechten
       die manipulierte Version. "
     - 'Probier es doch mal aus! '
 --- !u!1 &84165012
