@@ -400,6 +400,16 @@ MonoBehaviour:
       die audiovisuelle Erfahrung von Raum. "
     - "Hierbei schirmt der Kopf den Klang, der von rechts kommt f\xFCr das linke
       Ohr ab \u2013 und andersherum. "
+    - "Der Raum bestimmt das H\xF6ren von installierten Kl\xE4ngen in eben diesem
+      Raum. "
+    - "Umgekehrt kann die Installation von Kl\xE4ngen einen Raum aber auch konstituieren,
+      durch akustische Markierung und Begrenzung eine Geschlossenheit im offenen
+      Au\xDFenraum herstellen."
+    - "Nun kannst Du dir deinen eigenen Klangraum erzeugen indem Du einfach im Raum
+      herumschaust und durch verschiedene Elemente im Raum Trigger ausl\xF6st, die
+      Sounds abspielen lassen. "
+    - "Beobachte wie Du dich in diesem Raum f\xFChlst und wie dieser sich ver\xE4ndert,
+      wenn mehr Sounds hinzukommen. "
 --- !u!1 &84165012
 GameObject:
   m_ObjectHideFlags: 0
