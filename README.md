@@ -7,3 +7,23 @@ Hierbei betreten Besucher_innen über den Eingang von einem Funkhaus ein Tonstud
 Die folgenden Thematiken finden sich in den Kapseln wieder und können erfahren werden: 
 Authentizität von Sound, Manipulation von Sound, Tiefe im Sound, Sound im Raum, Atmosphärischer Sound
 
+Quellen:
+
+Assets:
+https://assetstore.unity.com/packages/3d/props/lowpoly-sci-fi-crates-free-146016
+
+https://assetstore.unity.com/packages/3d/environments/sci-fi/modular-sci-fi-corridor-142811
+
+https://assetstore.unity.com/packages/3d/environments/sci-fi/sci-fi-styled-modular-pack-82913
+
+https://assetstore.unity.com/packages/3d/environments/3d-scifi-kit-starter-kit-92152
+
+
+Audio:
+https://www.youtube.com/watch?v=Qlqb8fvZENY&t=26s
+
+https://freesound.org/people/markkuyp/sounds/345535/
+
+
+Materialien:
+
