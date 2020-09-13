@@ -444,12 +444,7 @@ ModelImporter:
   - first:
       137: 13700000
     second: character _man relax
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: character _man relax_
-    second: {fileID: 2100000, guid: dcc2c0fbb6746184db717504ed9e4c31, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -1280,7 +1275,7 @@ ModelImporter:
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
   referencedClips: []
-  importAnimation: 0
+  importAnimation: 1
   humanDescription:
     serializedVersion: 3
     human: []
