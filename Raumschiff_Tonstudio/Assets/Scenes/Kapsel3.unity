@@ -2387,8 +2387,8 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 1.634883, y: 4.946127, z: 2.1595364}
-  m_Center: {x: -5.355506, y: 155.11636, z: 34.094803}
+  m_Size: {x: 1.8988216, y: 4.946127, z: 2.1595364}
+  m_Center: {x: -6.6481805, y: 155.11636, z: 34.094868}
 --- !u!114 &241884014
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2457,7 +2457,7 @@ AudioSource:
     m_Curve:
     - serializedVersion: 3
       time: 0
-      value: 0
+      value: 0.51
       inSlope: 0
       outSlope: 0
       tangentMode: 0
@@ -3942,7 +3942,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4488098957211032, guid: 825fa18a72a60a94c826fb76f103f6b8, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.9
+      value: 1.5
       objectReference: {fileID: 0}
     - target: {fileID: 4488098957211032, guid: 825fa18a72a60a94c826fb76f103f6b8, type: 3}
       propertyPath: m_LocalRotation.x
@@ -9045,7 +9045,7 @@ AudioSource:
     m_Curve:
     - serializedVersion: 3
       time: 0
-      value: 0
+      value: 0.55
       inSlope: 0
       outSlope: 0
       tangentMode: 0
@@ -21073,7 +21073,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 476c53a318f40497780583cceb3e37bb, type: 3}
+  m_audioClip: {fileID: 8300000, guid: add7ada87e8704367b111d95ce927f30, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 0.79
   m_Pitch: 1
