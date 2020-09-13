@@ -18,11 +18,22 @@ https://assetstore.unity.com/packages/3d/environments/sci-fi/sci-fi-styled-modul
 
 https://assetstore.unity.com/packages/3d/environments/3d-scifi-kit-starter-kit-92152
 
+https://assetstore.unity.com/packages/tools/utilities/b-zier-path-creator-136082
+
+https://assetstore.unity.com/packages/3d/environments/urban/simple-city-pack-plain-100348
+
+https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/relaxed-man-character-32665
+
+https://assetstore.unity.com/packages/3d/props/benches-free-pack-110841
+
+
+
 
 Audio:
 https://www.youtube.com/watch?v=Qlqb8fvZENY&t=26s
 
 https://freesound.org/people/markkuyp/sounds/345535/
+
 
 
 Materialien:
