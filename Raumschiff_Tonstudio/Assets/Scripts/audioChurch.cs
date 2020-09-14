@@ -12,7 +12,11 @@ public class audioChurch : MonoBehaviour
       GetComponent<AudioSource>().Play();
     }
 
-
+    void OnTriggerExit(Collider other){
+    
+       //Die Audiodateo wird gestoppt
+      GetComponent<AudioSource>().Stop();
+    }
 }
 
 

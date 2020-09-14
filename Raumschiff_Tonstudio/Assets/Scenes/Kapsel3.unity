@@ -1813,7 +1813,7 @@ PrefabInstance:
     - target: {fileID: 1132022550193720560, guid: af1c3e5a3edbe1d4193759238a03cab0,
         type: 3}
       propertyPath: m_Name
-      value: ambulance (1)
+      value: ambulanceB
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: af1c3e5a3edbe1d4193759238a03cab0, type: 3}
@@ -2504,18 +2504,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1.8988216, y: 4.946127, z: 2.1595364}
   m_Center: {x: -6.6481805, y: 155.11636, z: 34.094868}
---- !u!114 &241884014
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 241884012}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 64bed88dfae6e42a895252f49474ebb3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!82 &241884015
 AudioSource:
   m_ObjectHideFlags: 0
@@ -5680,8 +5668,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 656581137}
+  - component: {fileID: 656581139}
+  - component: {fileID: 656581138}
   m_Layer: 0
-  m_Name: Ambulances
+  m_Name: AmbulanceTrigger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5701,6 +5691,33 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 27
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &656581138
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 656581136}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.8594117, y: 2.5719252, z: 0.90420437}
+  m_Center: {x: -2.8809998, y: 0.7859626, z: 1.1467638}
+--- !u!114 &656581139
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 656581136}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90baad3cf1a2a486ea4bbb5b1d3ff412, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  audioData: {fileID: 0}
+  ambulance: {fileID: 0}
 --- !u!1 &662197698
 GameObject:
   m_ObjectHideFlags: 0
@@ -5745,18 +5762,6 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 135573298}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &666950756
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 666950755}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 64bed88dfae6e42a895252f49474ebb3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!95 &666950757
 Animator:
   serializedVersion: 3
@@ -8697,6 +8702,65 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5ccb6dbe807501c498e905276f812569, type: 3}
+--- !u!1 &981850935
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 981850938}
+  - component: {fileID: 981850937}
+  - component: {fileID: 981850936}
+  m_Layer: 0
+  m_Name: TrainTrigger
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &981850936
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 981850935}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8d9b970e38e94459bc6f0c9adb32aef, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  audioData: {fileID: 0}
+  Train: {fileID: 0}
+--- !u!65 &981850937
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 981850935}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.8009691, y: 2.5719252, z: 0.81073666}
+  m_Center: {x: -4.777167, y: 0.7859626, z: 3.7360697}
+--- !u!4 &981850938
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 981850935}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 11.122408, y: 1.0665871, z: -5.1579547}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 29
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &989617295 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: c72a6f816613cb541a184b312c7499aa,
@@ -9397,18 +9461,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &1082545267
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1082545261}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 64bed88dfae6e42a895252f49474ebb3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!4 &1082545269 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1132022550193295568, guid: af1c3e5a3edbe1d4193759238a03cab0,
@@ -23518,6 +23570,65 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: fbdd438efbda2f64797d0c583af6e98a, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a1c26fa4cfd27a9429505721a0a4c615, type: 3}
+--- !u!1 &1947369508
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1947369511}
+  - component: {fileID: 1947369510}
+  - component: {fileID: 1947369509}
+  m_Layer: 0
+  m_Name: Ambulance(1)Trigger
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1947369509
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1947369508}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdbcbbe9fee3b4e98abf4de221b11fdf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  audioData: {fileID: 0}
+  ambulanceB: {fileID: 0}
+--- !u!65 &1947369510
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1947369508}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.8594117, y: 2.5719252, z: 0.90420437}
+  m_Center: {x: -2.8809998, y: 0.7859626, z: 1.1467638}
+--- !u!4 &1947369511
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1947369508}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 11.122408, y: 1.0665871, z: -5.1579547}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 28
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1955719867
 GameObject:
   m_ObjectHideFlags: 0
