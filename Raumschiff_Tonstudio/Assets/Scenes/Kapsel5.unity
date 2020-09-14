@@ -395,16 +395,14 @@ MonoBehaviour:
     name: "Atmosph\xE4re & Soundeffekte"
     sentences:
     - "Das Tonstudio kann verlassen werden, um Sounds an Originalschaupl\xE4tzen
-      aufzunehmen. "
+      aufzunehmen und die Atmosph\xE4re einzufangen. "
     - "Das Raumschiff ist der Tempel der Technik, aber man kann auch kleinere Einheiten
       au\xDFerhalb aufzeichnen."
     - "Wenn man etwas in der Kirche aufnimmt, dann kann es nicht mehr so klingen
       als w\xE4re man auf dem Berg. Man bekommt die Kirche nicht mehr raus."
-    - "Die Schauspieler*innen m\xFCssen sich aus ihrem eigenen Erfahrungsschatz in
-      die Atmosph\xE4re f\xFChlen und dementsprechend lauter oder leiser sprechen."
-    - "Wenn man raus geht, passieren irgendwelche Sachen.\r\r\nAus der klinischen
-      Sterialit\xE4t geht es raus in die lebhafte lebendige Umgebung.\r\n\n"
-    - "\rMan hat nicht mehr alles unter Kontrolle. Das hat einen gewissen Reiz."
+    - "Aus der klinischen Sterilit\xE4t geht es raus in die  lebendige Umgebung.\r\nWenn
+      man raus geht, passieren irgendwelche Sachen.\r\r"
+    - "\rMan hat nicht mehr alles unter Kontrolle. \nDas hat einen gewissen Reiz."
 --- !u!1 &84165012
 GameObject:
   m_ObjectHideFlags: 0
@@ -6590,8 +6588,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 921996324}
-  m_LocalRotation: {x: 0.2074553, y: 0.17356375, z: 0.037429158, w: -0.9619964}
-  m_LocalPosition: {x: 8.853318, y: -4.013644, z: -11.331533}
+  m_LocalRotation: {x: 0.006700801, y: -0.9567512, z: 0.022106918, w: 0.2899888}
+  m_LocalPosition: {x: -1.3373674, y: -1.8083504, z: 7.783579}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
