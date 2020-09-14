@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 875, y: 300}
+  m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 62
+  controlID: 68
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -221,7 +221,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 63
+  controlID: 69
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -246,7 +246,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 64
+  controlID: 70
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -315,20 +315,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/Eigene Objekte/poster
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/Eigene Objekte/poster
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /Users/elisabethbecker/Documents/Uni - lokal/AS_Sose2020/AS2020/Raumschiff_Tonstudio
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 453}
-    m_SelectedIDs: 724a0000
-    m_LastClickedID: 19058
-    m_ExpandedIDs: 00000000ac49000000ca9a3b
+    scrollPos: {x: 0, y: 258.00262}
+    m_SelectedIDs: 16540000
+    m_LastClickedID: 21526
+    m_ExpandedIDs: 00000000ac4900003c4a0000464a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -690,7 +690,7 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: 23298
+  m_LastSelectedObjectID: 19212
 --- !u!114 &16
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -754,7 +754,7 @@ MonoBehaviour:
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 390.00366
+  m_LastVerticalScrollValue: 0
 --- !u!114 &18
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -783,24 +783,24 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 27}
-      m_SelectedIDs: 924a0000
-      m_LastClickedID: 0
-      m_ExpandedIDs: dc57ffff408dffff0aadffffdecdffffe4d7ffff86dcffff38fbffff9e8300005c840000ac870000
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 3acb0000
+      m_LastClickedID: 52026
+      m_ExpandedIDs: c621ffff1633ffff2c51fffff655ffff345affff4686ffff12a6ffff8edcffff38fbffff544b0000224e0000604f00005a8b0000ecc70000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Kiste2
-        m_OriginalName: Kiste2
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -29576
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 4}
       m_SearchString: 
@@ -846,9 +846,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 7.480566, y: -1.2232118, z: -1.0103524}
+    m_Target: {x: 7.4530773, y: 6.191925, z: 0.6303072}
     speed: 2
-    m_Value: {x: 7.480566, y: -1.2232118, z: -1.0103524}
+    m_Value: {x: 7.4530773, y: 6.191925, z: 0.6303072}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -894,13 +894,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.2775769, y: 0.028812619, z: -0.008336756, w: 0.96024454}
+    m_Target: {x: -0.1917068, y: 0.0032208008, z: -0.00061736506, w: -0.98146504}
     speed: 2
-    m_Value: {x: 0.2775744, y: 0.028812358, z: -0.008336681, w: 0.96023583}
+    m_Value: {x: -0.19170338, y: 0.0032207433, z: -0.000617354, w: -0.9814475}
   m_Size:
-    m_Target: 6.11407
+    m_Target: 7.633225
     speed: 2
-    m_Value: 6.11407
+    m_Value: 7.531546
   m_Ortho:
     m_Target: 1
     speed: 2
