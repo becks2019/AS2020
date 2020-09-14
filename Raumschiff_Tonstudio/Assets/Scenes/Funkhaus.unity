@@ -1069,6 +1069,7 @@ GameObject:
   - component: {fileID: 335600039}
   - component: {fileID: 335600038}
   - component: {fileID: 335600037}
+  - component: {fileID: 335600040}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -1134,13 +1135,28 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 335600036}
-  m_LocalRotation: {x: 0.10066766, y: -0, z: -0, w: 0.99492013}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 483.4, y: 28.8, z: -572.7}
-  m_LocalScale: {x: 3.225, y: 3.225, z: 3.225}
+  m_LocalScale: {x: 0.916674, y: 0.916674, z: 0.916674}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 11.555, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &335600040
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 335600036}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33aabe1a2dec93349b06e6e5dc51bc06, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pathCreator: {fileID: 395979518}
+  endOfPathInstruction: 0
+  speed: 3
 --- !u!1001 &341347076
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1319,6 +1335,102 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 370474631}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &395979517
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 395979519}
+  - component: {fileID: 395979518}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &395979518
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 395979517}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e5ac92bc18f545cc84cd886ece82b4d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  editorData:
+    _bezierPath:
+      points:
+      - {x: -0.9512742, y: 0.46849313, z: -2.1101654}
+      - {x: -0.45682275, y: 0.43087018, z: -0.8675987}
+      - {x: 0.03762874, y: 0.39324722, z: 0.37496793}
+      - {x: 0.4127574, y: 0.37039664, z: 1.457986}
+      - {x: 0.65575826, y: 0.35559452, z: 2.1595435}
+      - {x: 0.78857636, y: 0.3450237, z: 3.1716695}
+      - {x: 1.1483308, y: 0.3353118, z: 3.8212337}
+      - {x: 1.6511303, y: 0.3217383, z: 4.729077}
+      - {x: 3.0183032, y: 0.3176316, z: 5.4812913}
+      - {x: 3.4027565, y: 0.29573372, z: 6.4450793}
+      - {x: 3.7576263, y: 0.2755209, z: 7.3347044}
+      - {x: 3.6586537, y: 0.24016066, z: 8.48399}
+      - {x: 3.559681, y: 0.20480043, z: 9.633275}
+      isClosed: 0
+      space: 0
+      controlMode: 3
+      autoControlLength: 0.3
+      boundsUpToDate: 0
+      bounds:
+        m_Center: {x: 0, y: 0, z: 0}
+        m_Extent: {x: 0, y: 0, z: 0}
+      perAnchorNormalsAngle:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      globalNormalsAngle: 0
+      flipNormals: 0
+    vertexPathUpToDate: 1
+    vertexPathMaxAngleError: 0.3
+    vertexPathMinVertexSpacing: 0.01
+    showTransformTool: 1
+    showPathBounds: 0
+    showPerSegmentBounds: 0
+    displayAnchorPoints: 1
+    displayControlPoints: 1
+    bezierHandleScale: 1
+    globalDisplaySettingsFoldout: 0
+    keepConstantHandleSize: 0
+    showNormalsInVertexMode: 0
+    showBezierPathInVertexMode: 0
+    showDisplayOptions: 0
+    showPathOptions: 1
+    showVertexPathDisplayOptions: 0
+    showVertexPathOptions: 1
+    showNormals: 0
+    showNormalsHelpInfo: 0
+    tabIndex: 0
+  initialized: 1
+--- !u!4 &395979519
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 395979517}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 514.6807, y: 13.127178, z: -503.3457}
+  m_LocalScale: {x: 32.753147, y: 32.753147, z: 32.753147}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 31
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &403261543
 PrefabInstance:
   m_ObjectHideFlags: 0
