@@ -21,4 +21,7 @@ public class train : MonoBehaviour
         //der Parameter open im Animator wird auf true gesetzt, die Animation wird gestartet
 		_animator.SetBool("open", true);
 	}
+    
+  
+    
 }
