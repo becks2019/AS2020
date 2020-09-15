@@ -25,8 +25,10 @@ Um Besucher_innen bereits vorher eine Vorstellung davon zu geben, was sie erwart
 
 #3 Nun befinden sich die Museumsbesucher_innen bereits im Mittelpunkt der Anwendung, nämlich im schalltoten, roten Raum, von dem aus alle Kapseln abgehen. Hierbei wechselt auch die Rolle der Besucher_innen, denn nun können Sie sich frei bewegen und selbst entscheiden, welche Kapsel zuerst betreten werden soll. Gerne kann sich aber an die folgende Reihenfolge gehalten werden. Ein Text begrüßt die Besucher_innen und verweist auf das Handyverbot und den fehlenden Handyempfang. Dies unterstreicht noch einmal den Museums- und Raumschiffcharakter der Anwendung. Auch der veränderte Sound der Audioausgabe des Textes verstärkt diesen Eindruck.
 <br><br>
-<img src="https://github.com/becks2019/AS2020/blob/master/Roter Raum.JPG">
+<img src="https://github.com/becks2019/AS2020/blob/master/RoterRaum1.png">
 <br><br>
+<img src="https://github.com/becks2019/AS2020/blob/master/RoterRaum2.png">
+<br>
 
 #4 Da der Aufbau der Kapseln gleich ist, müssen sich Besucher_innen nicht jedes Mal neu orientieren. In jeder Kapsel befindet sich rechts ein Bildschirm, welcher am besten zu Beginn angesteuert werden sollte. Hier erhalten die Besucher_innen Informationen zu der jeweiligen Thematik, erfahren welche interaktiven Möglichkeiten es gibt und lernen bereits verschiedene Aspekte kennen.  
 <br><br>
@@ -37,34 +39,34 @@ Um Besucher_innen bereits vorher eine Vorstellung davon zu geben, was sie erwart
 Wie kann der Einsatz von Sound zur Authentizität einer inszenierten VR Umgebung beitragen?  <br>
 Immer häufiger werden Tonaufnahmen auch an Originalschauplätzen aufgenommen. In dieser Kapsel ist ein Originalschauplatz virtuell inszeniert und die dazugehörigen Aufnahmen integriert. Betritt man verschiedene Punkte im Raum werden unterschiedliche Ausschnitte einer originalen Aufnahme abgespielt. Dabei ist zu beachten, dass die verwendeten Audioaufnahmen von der Gruppe selber im Originalschauplatz Auto bei Fahrt aufgenommen wurden und so der modellierte Schauplatz Auto durch den Sound an Authentizität gewinnt.
 <br><br>
-<img src="https://github.com/becks2019/AS2020/blob/master/Kapsel 1.JPG">
+<img src="https://github.com/becks2019/AS2020/blob/master/Kapsel1.png">
 <br><br>
 
 #6 Kapsel 2  <br> Manipulation von Sound  <br>
 Inwiefern kann Sound manipulativ eine Narration beeinflussen?  <br>
 Auf dem linken Podest sehen Besucher_innen Original Gespräch und auf dem rechten Podest eine manipulierte Aufnahme. Läuft man vor die Podeste so lassen sich die Aufnahmen automatisch abspielen. Besucher_innen können das eigenständig ausprobieren und erfahren welche Wirkung was Manipulation von Sound haben kann.
 <br><br>
-<img src="https://github.com/becks2019/AS2020/blob/master/Kapsel 2.JPG">
+<img src="https://github.com/becks2019/AS2020/blob/master/Kapsel2.png">
 <br><br>
 
 #7 Kapsel 3  <br> Tiefe im Sound  <br>
 Wie kann eine Tiefenwirkung durch Sound entstehen? <br>
 Hierbei stehen bereits aus dem Alltag bekannte Sounds im Fokus. Beispielsweise das Vorbeirauschen eines Zuges, das Läuten von Kirchenglocken oder der Dopplereffekt eines Martinhorns. Diese Geräusche zeichnen sich durch ihre Ikonizität aus und lösen bei Hörrer_innen eine Assoziation mit dem Objekt aus. In dieser Kaspsel wurde zudem 3D Sound verwendet, welcher zur Konstitution der Tiefe im Raum beiträgt. Besucher_innen können auch hier durch den Raum laufen und Geräusche auslösen, hierbei können die Geräusche mit den dazugehörigen Animation einzelen, aber auch zusammen ausgelöst werden. Die Objekte und Animationen unterstützen die akkustische Wirkung des Sounds optisch im Sinne eines Museumsexponates. 
 <br><br>
-<img src="https://github.com/becks2019/AS2020/blob/master/Kapsel 3.JPG">
+<img src="https://github.com/becks2019/AS2020/blob/master/Kapsel3.png">
 <br><br>
 
 #8 Kapsel 4  <br> Sound im Raum  <br>
 Inwiefern verändert sich Räumlichkeit durch Sound und wie kann Sound eine Räumlichkeit konstituieren?  <br> In dieser Kapsel erfahren Besucher_innen durch den Einsatz von 8D-Sound wie das Hören von diesen Klängen das Empfinden eines Raumes verändern kann. Der Raum bestimmt das Hören von installierten Klängen in eben diesem Raum. Umgekehrt kann die Installation von Klängen einen Raum aber auch konstituieren. Besucher_innen können vor die Soundboxen treten und einen Klang erzeugen oder alle Sounds auf einmal auslösen und den Raum akkustisch erfahren. Hier gilt es insbesondere Kopfhörer zu verwenden, da hier auf die Technologie der 8D Sounds zurückgegriffen wurde.
 <br><br>
-<img src="https://github.com/becks2019/AS2020/blob/master/Kapsel 4.JPG">
+<img src="https://github.com/becks2019/AS2020/blob/master/Kapsel4.png">
 <br><br>
 
 #9 Kapsel 5  <br> Atmosphärischer Sound  <br>
 Inwiefern kann Sound eine bestimmte Atmosphäre herüberbringen?  <br>
 Hierbei betreten Besucher_innen eine inszenierte, lebendige Außenwelt welche in Gestalt eines Waldes/Parks visualisiert wird. Schließen Besucher_innen die Augen wird die Wirkkraft dieser Kapsel besonders präsent, denn man könnte meinen man betritt einen Originalschauplatz. Auch hier können Besucher_innen sich frei bewegen und somit verschiedene Geräusche auslösen.
 <br><br>
-<img src="https://github.com/becks2019/AS2020/blob/master/Kapsel 5.JPG">
+<img src="https://github.com/becks2019/AS2020/blob/master/Kapsel5.png">
 <br><br>
 
 
