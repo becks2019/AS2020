@@ -75,20 +75,20 @@ Erstellung der Sounds:<br>
 Luca Miebach<br>
 
 Umsetzung Read.me:<br>
-Devina Leismann und xxx<br>
+Devina Leismann und Lena Sobieray<br>
 
 Umsetzung in Unity:<br>
 Erstellung der Kapselvorlage für alle Museumsräume:<br>
-Elisabeth Becker und Beatrice Inschakov<br>
+Elisabeth Becker und Beatrice Inschakov (alles gemeinsam zusammen)<br>
 
-Funkhaus: Lena Sobieray <br>
-Korridor: Devina Leismann und xxx<br>
-Roter Empfangsraum: Devina Leismann und xxx<br>
-Kapsel 1: Elisabeth Becker und Beatrice Inschakov<br>
-Kapsel 2: Lena Sobieray<br>
-Kapsel 3: Elisabeth Becker<br>
-Kapsel 4: Devina Leismann und xxx<br>
-Kapsel 5: Beatrice Inschakov<br>
+Funkhaus: Lena Sobieray (alles)<br>
+Korridor: Devina Leismann (Erstellung des Raumes), Lena Sobieray (Kamerafahrt, Trigger, Skript), Beatrice Inschakov (Materialien, Tür)<br>
+Roter Empfangsraum: Devina Leismann (erstes Konzept), Beatrice Inschakov (Erstellung des Raumes, Objekte, Materialien, Trigger, Skripte, Dialogbox), Elisabeth Becker (Dialogbox, Text)<br>
+Kapsel 1: Elisabeth Becker und Beatrice Inschakov (alles gemeinsam zusammen)<br>
+Kapsel 2: Lena Sobieray (alles)<br>
+Kapsel 3: Elisabeth Becker (alles)<br>
+Kapsel 4: Devina Leismann (Auswahl Sounds und Soundbox, Text), Elisabeth Becker (Objekte, Trigger, Skripte, Einbindung der Sounds) <br>
+Kapsel 5: Beatrice Inschakov (alles)<br>
 
 Projektkoordination:<br>
 https://trello.com/b/5hDBXqKj/auditory-spaces
@@ -103,11 +103,56 @@ https://assetstore.unity.com/packages/tools/utilities/b-zier-path-creator-136082
 https://assetstore.unity.com/packages/3d/environments/urban/simple-city-pack-plain-100348
 https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/relaxed-man-character-32665
 https://assetstore.unity.com/packages/3d/props/benches-free-pack-110841<br>
-Audio: https://www.youtube.com/watch?v=Qlqb8fvZENY&t=26s
+https://assetstore.unity.com/packages/3d/environments/railway-sleepers-95855
+https://assetstore.unity.com/packages/3d/vehicles/freight-train-138867
+https://assetstore.unity.com/packages/3d/environments/historic/church-model-110307
+https://assetstore.unity.com/packages/3d/vehicles/land/simple-ambulance-van-143684
+https://assetstore.unity.com/packages/3d/modular-railing-set-17090
+https://assetstore.unity.com/packages/3d/props/benches-free-pack-110841
+https://assetstore.unity.com/packages/3d/props/interior/yughues-free-decorative-plants-13283 
+https://assetstore.unity.com/packages/3d/environments/sci-fi/sci-fi-styled-modular-pack-82913 
+https://assetstore.unity.com/packages/2d/textures-materials/sky/spaceskies-free-80503
+https://assetstore.unity.com/packages/3d/vehicles/land/hd-low-poly-racing-car-no-1201-118603
+https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/relaxed-man-character-32665
+https://assetstore.unity.com/packages/3d/characters/humanoids/humans/sporty-girl-29666
+https://assetstore.unity.com/packages/3d/environments/sci-fi/sci-fi-styled-modular-pack-82913 
+
+
+
+
+Audio: <br>
+https://www.youtube.com/watch?v=Qlqb8fvZENY&t=26s
 https://freesound.org/people/markkuyp/sounds/345535/
-https://youtu.be/LZbEIxhiJRM
+https://www.audiyou.de/beitrag/glockenturm-st-anna-in-lintorf-9742/
+https://www.hoerspielbox.de/download-sound/?timestamp=37&title=Martinshorn%20kommt%20zweimal%20näher%20und%20fährt%20vorbei&cat=Geräusche%20Geräusche-Sonstige%20&permalink=https://www.hoerspielbox.de/alte-polizeisirenen-in-vorbeifahrt/&file=2-6-10030.mp3&soundlink=https://www.hoerspielbox.de/wp-content/blogs.dir/sites/1/2-6-10030.mp3
+https://studio.youtube.com/channel/UCkboLHfwhCyo35pVJJe1tNw/music?utm_campaign=upgrade&utm_medium=redirect&utm_source=%2Faudiolibrary%2Fsoundeffects
+
+
 
 Materialien:<br>
+https://us.123rf.com/450wm/rondale/rondale1608/rondale160800037/61153640-neon-blue-magie-glühendes-licht-glow-dralleffekt-welle-glitter-magischen-glanz-wirbel-spur-effekt-auf-tra.jpg?ver=6 
+https://www.azutura.com/media/catalog/product/cache/48/image/650x/040ec09b1e35df139433887a97daa66f/W/S/WS-45840_WP.jpg 
+https://us.123rf.com/450wm/bryljaev/bryljaev1411/bryljaev141100078/34144431-asphalt-straße-mit-straßenmarkierungen.jpg?ver=6 
+https://www.delife.eu/images/gallery/moebel-lexikon/Marmor.jpg 
+https://media.bahag.com/assets/resp_product/14/34/1434556_22677161.jpg 
+https://cdn02.plentymarkets.com/epz0zx1qug71/item/images/194553/full/Vliestapete-Metall-Wand-silber-grau-BlackundWhite-.jpg 
+https://www.renner-metall.de/images/emotion/slider-home-bild-1.jpg 
+https://ak.picdn.net/shutterstock/videos/6244652/thumb/11.jpg 
+https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMIhqnSAj2aO9Je8oe_LkmoeVNSSzmgYT7eEDFPidM-fBsDa8MpCUzROzpTA&usqp=CAE, 
+https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQZG2Y8L8OzJe1kgGMjfoLa_Yj_xueD9Fna24Mcy5FXHekr6ZkPwAKcKMze4VC1KK8lHshIOYE&usqp=CAE, 
+https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSEdpWElkVPF-7BqNUyz7lB3UX75itqQLDwaa4c9bDNAjjphEK-AZ8OGJ0tGw&usqp=CAE, 
+https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQS11b1Ansp5U4ALK9eWnF7dHG3m8dcaooj06-2eNjqnZw2MA5bUVKaq6Q9T50BSYakIlG60G4&usqp=CAE, 
+https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSIEEf3OhBFrU_xpctxs6bcBjqgfWRB5bAMA6h13D7hPwtKJSeGMJBPTnptQKI&usqp=CAY, 
+https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRmD3ywbFCjdAECCnC0iqKPY_IQDKC9kc1f5-MbU7VXP7TQtuZLvDYFDNb8rPy_ttl-iMVp1Oo&usqp=CAE, 
+https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSOfypvB4Veox7Bb4EHxmN8tNWXZR-zimmzJeswG0Oq5eyZYH3p5YB0IL7Zb7dI8PqOGZnwG-0&usqp=CAE, 
+https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQW2H49b9yCy-O3LLjrQSN6WCSWYiEfqZCq1IvkUX84ggNmFPg24cG_K_eEfw&usqp=CAE, 
+https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSmU4bSF2Y07zzBcSgeHWiPdujcI4JKl-7lYlqEUAKY8pQ1VPvf-1yWqi-lvJM&usqp=CAE, 
+https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS5v0UG8Ps4_CbLMI7HNG6KPcaDXZYniC8D3YDIQsKM_GhcoGfY8G9eRoH4Yw&usqp=CAE,  
+https://i.pinimg.com/originals/a3/68/9d/a3689df19f60c69c42a5762e76663684.png, 
+https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/1975-nasa-space-shuttle-patent-print-blackboard-greg-edwards.jpg 
+https://blogs.esa.int/space19plus/files/2019/03/nebula.jpg 
+https://upload.wikimedia.org/wikipedia/commons/a/af/Exit_logo.png 
+
 
 Hörspiel: <br>
 https://www.deutschlandfunkkultur.de/hoerspiel-ueber-den-brillanten-sound-raumschiff-tonstudio.3684.de.html?dram:article_id=456412
