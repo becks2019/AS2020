@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class otherObjAni : MonoBehaviour
 {
-   //Dieses Skript startet die Animation, mit der der Zug durchfährt
+   //Dieses Skript startet die Animation, mit der der Krankenwagen durchfährt
 	//Die Animation wird erst durch Betreten eines BoxColliders ausgeführt
 	private Animator _animator;
     public AudioSource audioData;
@@ -25,13 +25,15 @@ public class otherObjAni : MonoBehaviour
 	void OnTriggerEnter(Collider other)
 	{
         //der Parameter open im Animator wird auf true gesetzt, die Animation wird gestartet
+        //und die Audiosource aktiviert
 		_animator.SetBool("open", true);
         _animator.enabled = true;
 	}
     
    void OnTriggerExit(Collider other)
 	{
-        //der Parameter open im Animator wird auf true gesetzt, die Animation wird gestartet
+        //der Parameter open im Animator wird auf true gesetzt, die Animation wird beendet
+        //und die Audiosource deaktiviert
 		_animator.enabled = false;
         audioData.enabled = false;
 	}

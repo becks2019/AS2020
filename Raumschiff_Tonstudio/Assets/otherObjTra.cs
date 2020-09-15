@@ -24,13 +24,15 @@ public class otherObjTra : MonoBehaviour
 	void OnTriggerEnter(Collider other)
 	{
         //der Parameter open im Animator wird auf true gesetzt, die Animation wird gestartet
+        //und die Audiosource aktiviert
 		_animator.SetBool("open", true);
         _animator.enabled = true;
 	}
     
    void OnTriggerExit(Collider other)
 	{
-        //der Parameter open im Animator wird auf true gesetzt, die Animation wird gestartet
+        //der Parameter open im Animator wird auf true gesetzt, die Animation wird beendet
+        //und die Audiosource aktiviert
 		_animator.enabled = false;
         audioData.enabled = false;
 	}
