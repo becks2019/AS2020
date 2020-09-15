@@ -15,7 +15,7 @@ Zu Beginn der Anwendung betreten Besucher_innen über den Eingang von einem Funk
 Um Besucher_innen bereits vorher eine Vorstellung davon zu geben, was sie erwartet wird im Folgenden eine Anleitung aufgeführt, welche die Anwendung theoretisch beschreibt:
 #1 Besucher_innen befinden sich zuerst draußen vor einem Funkhaus. Die Umgebung wird durch natürliche Geräuschkulissen einer Stadt unterstützt und trägt bereits zur Narrativität der Entwicklung bei. Durch eine geführte Kamerafahrt gelangen sie in das Funkhaus und werden durch einen Flur geführt.
 #2 Weiterhin werden Besucher_innen wieder durch eine Kamerafahrt durch einen Korridor, welcher visuell bereits an eine Sci-Fi/Raumschiff Atmosphäre erinnern soll, geführt. Hierbei lassen die natürlichen Geräusche bereits nach.
-<img src="https://github.com/becks2019/AS2020/blob/Screenshots/Funkhaus.jpg">
+
 
 #3 Nun befinden sich die Museumsbesucher_innen bereits im Mittelpunkt der Anwendung, nämlich im schalltoten, roten Raum, von dem aus alle Kapseln abgehen. Hierbei wechselt auch die Rolle der Besucher_innen, denn nun können Sie sich frei bewegen und selbst entscheiden, welche Kapsel zuerst betreten werden soll. Gerne kann sich aber an die folgende Reihenfolge gehalten werden. 
 
