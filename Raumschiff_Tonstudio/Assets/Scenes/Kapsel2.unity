@@ -596,12 +596,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   dialogue:
-    name: 'Lena Sobieray '
+    name: Manipulation
     sentences:
-    - 'Willkommen in Kapsel 2 mit dem Thema: Manipulation von Sound!'
-    - "Zu deiner Linken siehst du das Original Gespr\xE4ch und zu deiner Rechten
-      die manipulierte Version. "
-    - 'Probier es doch mal aus! '
+    - "Sounds k\xF6nnen durch verschiedene Effekte manipuliert werden und daher ganz
+      anders wirken also urpr\xFCnglich aufgenommen."
+    - "Sogar so, dass das Original nicht wieder zu erkennen ist und eine ganz andere
+      Atmosph\xE4re entsteht."
+    - "Dies l\xE4sst sich anhand verschiedenster Beispiele erfahren."
+    - 'So auch hier in Kapsel 2: Links auf dem Podium ist das Original zu finden
+      und rechts die Manipulation.'
+    - "Probieren Sie es doch mal aus und erfahren Sie die F\xE4higkeit Sound zu manipulieren
+      durch zwei Gespr\xE4chssituationen. "
 --- !u!1 &84165012
 GameObject:
   m_ObjectHideFlags: 0
