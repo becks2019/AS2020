@@ -392,11 +392,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   dialogue:
-    name: Jan Wieners
+    name: Name
     sentences:
-    - Hi ich bin Jan Wieners.
-    - Euer Projekt ist echt super.
-    - Ihr bekommt eine 1,0!
+    - Beschreibung der Kapsel.
 --- !u!1 &84165012
 GameObject:
   m_ObjectHideFlags: 0
@@ -16940,7 +16938,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: fc2b88c67d3e2114b9a49b67acc5dce2, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 0b45fe24a78cb7c4e86edd1809bc96c6, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
