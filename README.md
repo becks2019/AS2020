@@ -84,7 +84,7 @@ Elisabeth Becker und Beatrice Inschakov (alles gemeinsam zusammen)<br>
 
 Funkhaus: Lena Sobieray (alles)<br>
 Korridor: Devina Leismann (Erstellung des Raumes), Lena Sobieray (Kamerafahrt, Trigger, Skript), Beatrice Inschakov (Materialien, Tür)<br>
-Roter Empfangsraum: Devina Leismann (erstes Konzept), Beatrice Inschakov (Erstellung des Raumes, Objekte, Materialien, Trigger, Skripte, Dialogbox), Elisabeth Becker (Dialogbox, Text)<br>
+Roter Empfangsraum: Devina Leismann (erstes Konzept), Beatrice Inschakov (Erstellung des Raumes, Objekte, Materialien, Trigger, Skripte, Dialogbox), Elisabeth Becker (Dialogbox, Text, Exit)<br>
 Kapsel 1: Elisabeth Becker und Beatrice Inschakov (alles gemeinsam zusammen)<br>
 Kapsel 2: Lena Sobieray (alles)<br>
 Kapsel 3: Elisabeth Becker (alles)<br>
