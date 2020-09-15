@@ -28,7 +28,9 @@ Um Besucher_innen bereits vorher eine Vorstellung davon zu geben, was sie erwart
 <br><br>
 
 #4 Da der Aufbau der Kapseln gleich ist, müssen sich Besucher_innen nicht jedes Mal neu orientieren. In jeder Kapsel befindet sich rechts ein Bildschirm, welcher am besten zu Beginn angesteuert werden sollte. Hier erhalten die Besucher_innen Informationen zu der jeweiligen Thematik, erfahren welche interaktiven Möglichkeiten es gibt und lernen bereits verschiedene Aspekte kennen.  
-
+<br><br>
+<img src="https://github.com/becks2019/AS2020/blob/master/Stele.JPG">
+<br><br>
 
 #5 Kapsel 1 <br> Authentizität von Sound  <br>
 Wie kann der Einsatz von Sound zur Authentizität einer inszenierten VR Umgebung beitragen?  <br>
