@@ -14,6 +14,9 @@ Zu Beginn der Anwendung betreten Besucher_innen über den Eingang von einem Funk
 
 Um Besucher_innen bereits vorher eine Vorstellung davon zu geben, was sie erwartet wird im Folgenden eine Anleitung aufgeführt, welche die Anwendung theoretisch beschreibt:
 #1 Besucher_innen befinden sich zuerst draußen vor einem Funkhaus. Die Umgebung wird durch natürliche Geräuschkulissen einer Stadt unterstützt und trägt bereits zur Narrativität der Entwicklung bei. Durch eine geführte Kamerafahrt gelangen sie in das Funkhaus und werden durch einen Flur geführt.
+<br><br>
+<img src="https://github.com/becks2019/AS2020/blob/master/Funkhaus.jpg">
+<br><br>
 #2 Weiterhin werden Besucher_innen wieder durch eine Kamerafahrt durch einen Korridor, welcher visuell bereits an eine Sci-Fi/Raumschiff Atmosphäre erinnern soll, geführt. Hierbei lassen die natürlichen Geräusche bereits nach.
 
 
