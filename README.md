@@ -123,6 +123,7 @@ https://assetstore.unity.com/packages/3d/characters/animals/fish/sardine-37963
 
 
 
+
 Audio: <br>
 https://www.youtube.com/watch?v=Qlqb8fvZENY&t=26s
 https://freesound.org/people/markkuyp/sounds/345535/
@@ -133,6 +134,9 @@ https://www.youtube.com/watch?v=LZbEIxhiJRM&feature=youtu.be
 https://www.youtube.com/audiolibrary/soundeffects?ar=1580157019066&nv=1
 https://www.youtube.com/audiolibrary/soundeffects?ar=1580157019066&nv=1
 https://www.youtube.com/audiolibrary/soundeffects?ar=1580157019066&nv=1
+https://www.audiyou.de/beitrag/tren-ffnen-schlieen-soundpaket-10207/
+https://www.audiyou.de/beitrag/space-01-malte-ussat-10169/
+
 
 
 
