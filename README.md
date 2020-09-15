@@ -1,7 +1,7 @@
 Auditory Spaces: Sound als Gestaltungsmittel in VR und AR
 
 Gruppe 7
-Beatrice Inschakov (7339270)
+Beatrice Inschakov (7339270) <br>
 Elisabeth Becker (5965020)
 Lena Sobieray (7335241)
 Devina Leismann (7338363)
