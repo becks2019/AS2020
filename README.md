@@ -16,7 +16,7 @@ Um Besucher_innen bereits vorher eine Vorstellung davon zu geben, was sie erwart
 <br><br> Vorab ist es zu empfehlen, beim Museumsrundgang Kopfhörer zu tragen, da die Sounds nur so ideal erfahren werden können. Zudem gibt es Elemente wie 3D und 8D Sounds, die nur unter der Verwendung von Kopfhörern funktionieren. <br><br>
 #1 Besucher_innen befinden sich zuerst draußen vor einem Funkhaus. Die Umgebung wird durch natürliche Geräuschkulissen einer Stadt unterstützt und trägt bereits zur Narrativität der Entwicklung bei. Durch eine geführte Kamerafahrt gelangen sie in das Funkhaus und werden durch einen Flur geführt.
 <br><br>
-<img src="https://github.com/becks2019/AS2020/blob/master/Funkhaus.JPG">
+<img src="https://github.com/becks2019/AS2020/blob/master/Funkhaus.png">
 <br><br>
 #2 Weiterhin werden Besucher_innen wieder durch eine Kamerafahrt durch einen Korridor, welcher visuell bereits an eine Sci-Fi/Raumschiff Atmosphäre erinnern soll, geführt. Hierbei lassen die natürlichen Geräusche bereits nach. Auf Schritte wurde bewusst aufgrund des Weltallcharakters konzeptionell verzichtet, um eine Schwerelosigkeit zu suggerieren. 
 <br><br>
