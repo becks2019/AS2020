@@ -1,11 +1,11 @@
-Auditory Spaces: Sound als Gestaltungsmittel in VR und AR
+Auditory Spaces: Sound als Gestaltungsmittel in VR und AR <br>
 
-Gruppe 7
+Gruppe 7 <br>
 Beatrice Inschakov (7339270) <br>
-Elisabeth Becker (5965020)
-Lena Sobieray (7335241)
-Devina Leismann (7338363)
-Luca Miebach (xxx)
+Elisabeth Becker (5965020) <br>
+Lena Sobieray (7335241) <br>
+Devina Leismann (7338363) <br>
+Luca Miebach (xxx) <br>
 
 Ziel der abschließenden Projektarbeit der Übung „Auditory Spaces: Sound als Gestaltungsmittel in VR und AR“ ist es, zu erproben welche narrativen Möglichkeiten die audiovisuelle Gestaltung eines virtuellen Raums ermöglicht. Das folgende Projekt wird in Form einer VR-Umgebung mit Hilfe von Unity realisiert. Als Grundlage und Inspiration diente das Hörspiel „Raumschiff Tonstudio“ von Giuseppe Maio. In ebendiesem Hörspiel finden sich die im Projekt umgesetzten Aspekte wieder und auch die visuell gestaltete Umgebung baut auf Information aus dem Hörspiel auf. Aus diesem Grund wäre es sinnvoll vorab das Hörspiel zu rezipieren und dann die entwickelte Virtual Reality Anwendung zu durchlaufen und vielleicht einige bildlich umgesetzten Zitate wiederzuentdecken, jedoch ist die Erfahrung der Virtual Reality Anwendung auch ohne vorheriges Hören möglich.
 Besonders die Idee des Hörspiels etwas über Sounds und deren Entstehung zu erfahren wird Fokus dieser Virtual Reality Erfahrung sein. Die Idee ist es einen virtuellen Museumsrundgang zu schaffen, indem Besucher_innen des Raumschiffs etwas über die verschiedenen Aspekte von Sound erfahren und lernen können. Hierbei werden interaktive Lerninhalte für alle möglichen Altersgruppen transportiert.
@@ -20,22 +20,22 @@ Um Besucher_innen bereits vorher eine Vorstellung davon zu geben, was sie erwart
 
 #4 Da der Aufbau der Kapseln gleich ist, müssen sich Besucher_innen nicht jedes Mal neu orientieren. In jeder Kapsel befindet sich rechts ein Bildschirm, welcher am besten zu Beginn angesteuert werden sollte. Hier erhalten die Besucher_innen Informationen zu der jeweiligen Thematik, erfahren welche interaktiven Möglichkeiten es gibt und lernen bereits verschiedene Aspekte kennen.  
 
-#5 Kapsel 1 - Authentizität von Sound
+#5 Kapsel 1 <br> Authentizität von Sound  <br>
 Wie kann der Einsatz von Sound zur Authentizität einer inszenierten VR Umgebung beitragen? 
 Immer häufiger werden Tonaufnahmen auch an Originalschauplätzen aufgenommen. In dieser Kapsel ist ein Originalschauplatz virtuell inszeniert und die dazugehörigen Aufnahmen integriert. Betritt man verschiedene Punkte im Raum werden unterschiedliche Ausschnitte einer originalen Aufnahme abgespielt. 
 
-#6 Kapsel 2 - Manipulation von Sound
+#6 Kapsel 2  <br> Manipulation von Sound  <br>
 Inwiefern kann Sound manipulativ eine Narration beeinflussen? 
 Auf dem linken Podest sehen Besucher_innen Original Gespräch und auf dem rechten Podest eine manipulierte Aufnahme. Läuft man vor die Podeste so lassen sich die Aufnahmen automatisch abspielen. Besucher_innen können das eigenständig ausprobieren und erfahren welche Wirkung was Manipulation von Sound haben kann.
 
-#7 Kapsel 3 - Tiefe im Sound
+#7 Kapsel 3  <br> Tiefe im Sound  <br>
 Wie kann eine Tiefenwirkung durch Sound entstehen?
 Hierbei stehen bereits aus dem Alltag bekannte Sounds im Fokus. Beispielsweise das Vorbeirauschen eines Zuges, das Läuten von Kirchenglocken oder der Dopplereffekt eines Martinhorns. Hierbei wurde ein 360-Grad Technologie verwendet, welche zur Konstitution der Tiefe im Raum beiträgt. Besucher_innen können auch hier durch den Raum laufen und Geräusche auslösen. 
 
-#8 Kapsel 4 - Sound im Raum
+#8 Kapsel 4  <br> Sound im Raum  <br>
 Inwiefern verändert sich Räumlichkeit durch Sound und wie kann Sound eine Räumlichkeit konstituieren? In dieser Kapsel erfahren Besucher_innen durch den Einsatz von 8D-Sound wie das Hören von diesen Klängen das Empfinden eines Raumes verändern kann. Der Raum bestimmt das Hören von installierten Klängen in eben diesem Raum. Umgekehrt kann die Installation von Klängen einen Raum aber auch konstituieren. Besucher_innen können vor die Soundboxen treten und einen Klang erzeugen. 
 
-#9 Kapsel 5 - Atmosphärischer Sound
+#9 Kapsel 5  <br> Atmosphärischer Sound  <br>
 Inwiefern kann Sound eine bestimmte Atmosphäre herüberbringen?
 Hierbei betreten Besucher_innen eine inszenierte, lebendige Außenwelt welche in Gestalt eines Waldes/Parks visualisiert wird. Schließen Besucher_innen die Augen wird die Wirkkraft dieser Kapsel besonders präsent, denn man könnte meinen man betritt einen Originalschauplatz. Auch hier können Besucher_innen sich frei bewegen und somit verschiedene Geräusche auslösen.
 
