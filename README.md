@@ -18,7 +18,7 @@ Um Besucher_innen bereits vorher eine Vorstellung davon zu geben, was sie erwart
 <br><br>
 <img src="https://github.com/becks2019/AS2020/blob/master/Funkhaus.JPG">
 <br><br>
-#2 Weiterhin werden Besucher_innen wieder durch eine Kamerafahrt durch einen Korridor, welcher visuell bereits an eine Sci-Fi/Raumschiff Atmosphäre erinnern soll, geführt. Hierbei lassen die natürlichen Geräusche bereits nach.
+#2 Weiterhin werden Besucher_innen wieder durch eine Kamerafahrt durch einen Korridor, welcher visuell bereits an eine Sci-Fi/Raumschiff Atmosphäre erinnern soll, geführt. Hierbei lassen die natürlichen Geräusche bereits nach. Auf Schritte wurde bewusst aufgrund des Weltallcharakters konzeptionell verzichtet, um eine Schwerelosigkeit zu suggerieren. 
 <br><br>
 <img src="https://github.com/becks2019/AS2020/blob/master/Korridor.JPG">
 <br><br>
