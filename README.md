@@ -1,4 +1,4 @@
-Auditory Spaces: Sound als Gestaltungsmittel in VR und AR <br>
+<b>Auditory Spaces: Sound als Gestaltungsmittel in VR und AR </b><br>
 
 Gruppe 7 <br>
 Beatrice Inschakov (7339270) <br>
@@ -65,7 +65,7 @@ Hierbei betreten Besucher_innen eine inszenierte, lebendige Außenwelt welche in
 <br><br>
 
 
-Aufteilung der Gruppenarbeit<br>
+<b>Aufteilung der Gruppenarbeit</b><br>
 Projektkonzeption:<br>
 Elisabeth Becker, Lena Sobieray, Beatrice Inschakov, Luca Miebach und Devina Leismann
 
@@ -91,7 +91,7 @@ Kapsel 5: Beatrice Inschakov<br>
 Projektkoordination:<br>
 https://trello.com/b/5hDBXqKj/auditory-spaces
 
-Quellen:<br>
+<b>Quellen:</b><br>
 Assets:<br>
 https://assetstore.unity.com/packages/3d/props/lowpoly-sci-fi-crates-free-146016
 https://assetstore.unity.com/packages/3d/environments/sci-fi/modular-sci-fi-corridor-142811
