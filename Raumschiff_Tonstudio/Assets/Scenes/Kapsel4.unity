@@ -410,7 +410,7 @@ MonoBehaviour:
     - "Auf dem gro\xDFen Punkt in der Mitte des Raumes werden alle Sounds gleichzeitig
       abgespielt."
     - "Beobachten Sie wie Sie sich in diesem Raum f\xFChlen und nehmen Sie den Raum
-      akkustisch wahr. "
+      akustisch wahr. "
 --- !u!1 &84165012
 GameObject:
   m_ObjectHideFlags: 0
